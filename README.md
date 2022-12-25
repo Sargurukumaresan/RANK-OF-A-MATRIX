@@ -21,6 +21,7 @@ print(rank)
 ```
 ## Output:
 ![output](./rank%20of%20matrix.png)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
